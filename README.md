@@ -4,6 +4,7 @@
 
 
 * [01 A Brave New World](./01/)
+* [02 Running a Rails App in a Container](./02/)
 
 
 ## Ref
