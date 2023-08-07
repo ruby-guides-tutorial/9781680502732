@@ -2,7 +2,7 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Fri Jul 21 20:30:25 CST 2023` | `Fri Aug 26 10:52:00 CST 2022`
+`Mon Aug  7 20:20:24 CST 2023` | `Fri Jul 21 20:30:25 CST 2023`
 
 ## Naming and Versioning Our Image
 
