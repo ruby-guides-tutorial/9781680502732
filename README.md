@@ -10,6 +10,7 @@
 * [05 Beyond the App: Adding Redis](./05/)
 * [06 Adding a Database: Postgres](./06/)
 * [07 Playing Nice with JavaScript](./07/)
+* [09 Advanced Gem Management](./09/)
 
 
 ## Ref
