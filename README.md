@@ -11,6 +11,7 @@
 * [06 Adding a Database: Postgres](./06/)
 * [07 Playing Nice with JavaScript](./07/)
 * [09 Advanced Gem Management](./09/)
+* [10 Some Minor Irritations](./10/)
 
 
 ## Ref
