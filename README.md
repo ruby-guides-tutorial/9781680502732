@@ -12,6 +12,7 @@
 * [07 Playing Nice with JavaScript](./07/)
 * [09 Advanced Gem Management](./09/)
 * [10 Some Minor Irritations](./10/)
+* [12 Preparing for Production](./12)
 
 
 ## Ref
