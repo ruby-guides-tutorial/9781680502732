@@ -8,7 +8,8 @@
 * [03 Fine-Tuning Our Rails Image](,/03/)
 * [04 Describing Our App Declaratively with Docker Compose](./04/)
 * [05 Beyond the App: Adding Redis](./05/)
-* [06 Adding a Database: Postgres](./06)
+* [06 Adding a Database: Postgres](./06/)
+* [07 Playing Nice with JavaScript](./07/)
 
 
 ## Ref
